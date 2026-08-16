@@ -3,13 +3,5 @@
 
 | หัวข้อ A | หัวข้อ B |
 | --- | --- |
-| ```
-android:textColor="#FF0000"
-```
-```
-android:textSize="20.0sp"
-```
-```
-android:fontFamily="@font/boom"
-``` | ข้อมูลช่องที่ 2 |
+| <string name="b1"><font color="#FFFFFF">WeChat Proxy</font> : <font color="#00FF00">online</font></string> | <string name="b1"><font color="#FFFFFF">WeChat Proxy</font> : <font color="#00FF00">online</font></string> |
 
